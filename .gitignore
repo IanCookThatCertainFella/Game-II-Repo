@@ -73,11 +73,3 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/MedievalVillage/Materials/Master/M_Flags.uasset
-Content/MedievalVillage/Materials/Master/M_Fire.uasset
-Content/MedievalVillage/Materials/Master/M_Fabbric.uasset
-Content/MedievalVillage/Materials/Master/M_Embers.uasset
-Content/MedievalVillage/Materials/Master/M_Distant_village.uasset
-Content/MedievalVillage/Materials/Master/M_Clouds.uasset
-Content/MedievalVillage/Materials/Master/M_Branch.uasset
-Content/MedievalVillage/Materials/Master/M_Blend_2.uasset
